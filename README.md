@@ -1,4 +1,5 @@
-# Telegram Bot Knowledge Testing
+# Get Exam Ready
+## Telegram Bot
 [![CodeQL](https://github.com/rastorguevia/telegrambot-knowledge-testing/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rastorguevia/telegrambot-knowledge-testing/actions/workflows/codeql-analysis.yml)[![Java CI with Maven](https://github.com/rastorguevia/telegrambot-knowledge-testing/actions/workflows/maven.yml/badge.svg)](https://github.com/rastorguevia/telegrambot-knowledge-testing/actions/workflows/maven.yml)
 ## Software
 + Java 11
